@@ -181,7 +181,7 @@ export default function Home() {
               <AnimatedSection delay={0.1} animationType="fadeInUp">
               <div className="group relative overflow-hidden rounded-lg border border-primary/20 transition-all duration-300 hover:border-primary">
   <Image
-    src="/memoraid-thumbnail.svg" // Use the relevant image for MemoRaid
+    src="/image.png" // Use the relevant image for MemoRaid
     width={400}
     height={300}
     alt="MemoRaid"

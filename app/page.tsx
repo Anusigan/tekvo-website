@@ -56,9 +56,7 @@ export default function Home() {
               Think Digital. Think Tekvo.
               </h1>
               <p className="mt-6 text-lg text-muted-foreground max-w-2xl mx-auto">
-                We create software of all shape and sizes be it simple web apps, mobile apps, or complex enterprise
-                software. We build web apps with React and Next.js, mobile apps with React Native/Expo, and backend with
-                Express and tRPC.
+              At Tekvo, we specialize in creating dynamic software solutions tailored to your needs. From simple web apps to complex mobile applications, we’ve got you covered. We build sleek, high-performance web apps with React and Next.js, cutting-edge mobile apps with Flutter, and reliable backends with Express. Whether you’re a startup or an established enterprise, we deliver scalable, user-friendly software solutions designed to take your business to the next level.
               </p>
             </div>
           </div>

@@ -53,7 +53,7 @@ export default function Home() {
           <div className="container px-4 md:px-6">
             <div className="mx-auto max-w-3xl text-center">
               <h1 className="text-4xl font-bold tracking-tight sm:text-5xl md:text-6xl">
-                We can design and develop your next ambitious startup idea
+              Think Digital. Think Tekvo.
               </h1>
               <p className="mt-6 text-lg text-muted-foreground max-w-2xl mx-auto">
                 We create software of all shape and sizes be it simple web apps, mobile apps, or complex enterprise

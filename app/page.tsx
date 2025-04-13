@@ -179,19 +179,21 @@ export default function Home() {
             </div>
             <div className="mx-auto grid max-w-5xl gap-8 py-12 md:grid-cols-2 lg:grid-cols-3">
               <AnimatedSection delay={0.1} animationType="fadeInUp">
-                <div className="group relative overflow-hidden rounded-lg border border-primary/20 transition-all duration-300 hover:border-primary">
-                  <Image
-                    src="/placeholder.svg?height=300&width=400"
-                    width={400}
-                    height={300}
-                    alt="Project 1"
-                    className="h-60 w-full object-cover transition-transform duration-300 group-hover:scale-105"
-                  />
-                  <div className="p-4">
-                    <h3 className="font-semibold">E-Commerce Platform</h3>
-                    <p className="text-sm text-muted-foreground">Web Development</p>
-                  </div>
-                </div>
+              <div className="group relative overflow-hidden rounded-lg border border-primary/20 transition-all duration-300 hover:border-primary">
+  <Image
+    src="/memoraid-thumbnail.svg" // Use the relevant image for MemoRaid
+    width={400}
+    height={300}
+    alt="MemoRaid"
+    className="h-60 w-full object-cover transition-transform duration-300 group-hover:scale-105"
+  />
+  <div className="p-4">
+    <h3 className="font-semibold">MemoRaid - Marketing Website</h3>
+    <p className="text-sm text-muted-foreground">Web Development</p>
+    <a href="https://memoraid.netlify.app" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline">View Project</a>
+  </div>
+</div>
+
               </AnimatedSection>
               <AnimatedSection delay={0.2} animationType="fadeInUp">
                 <div className="group relative overflow-hidden rounded-lg border border-primary/20 transition-all duration-300 hover:border-primary">

@@ -66,8 +66,8 @@ export default function Home() {
           <div className="container px-4 md:px-6">
             <div className="flex flex-col items-center justify-center space-y-4 text-center">
               <div className="space-y-2">
-                <h2 className="text-3xl font-bold tracking-tight md:text-4xl">Our Services</h2>
-                <p className="max-w-[700px] text-muted-foreground md:text-lg">
+                <h2 className="text-3xl font-bold tracking-tight md:text-3xl">Our Services</h2>
+                <p className="max-w-[800px] text-muted-foreground md:text-lg">
                   We offer end-to-end digital services to help your business thrive in the digital landscape.
                 </p>
               </div>
